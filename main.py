@@ -1,10 +1,6 @@
 '''
- 	       Amazon Product Reviews: Sentiment Analysis
-            
-           
-Subject Code: CA683
-Submitted by: Vineet Jain [19210982], Mayur Kambli [19210715], Samarth Gupta[19210117], Ankit Pandey[19211298]
-University: School of Computing, Dublin City University,Glasnevin, Dublin 9, IRELAND
+Amazon Product Reviews: Sentiment Analysis and Opinion Mining (using text mining and topic modelling)
+Submitted by: Vineet Jain, School of Computing, Dublin City University,Glasnevin, Dublin 9, IRELAND
 '''
 
 # Set working directory
