@@ -1,6 +1,6 @@
 '''
 Amazon Product Reviews: Sentiment Analysis and Opinion Mining (using text mining and topic modelling)
-Submitted by: Vineet Jain, School of Computing, Dublin City University,Glasnevin, Dublin 9, IRELAND
+Author: Vineet Jain
 '''
 
 # Set working directory
